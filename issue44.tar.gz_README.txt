@@ -1,0 +1,6 @@
+由于issue44.tar.gz的图片和模板素材已经在
+http://code.google.com/p/fullcirclectt/source/browse/#hg%2Fissue44_zh-CN这个目录中了，所以不再重复上传。
+
+排版时请下载这个文件：
+http://code.google.com/p/fullcirclectt/source/browse/issue44_zh-CN/issue44.tar.gz
+解压后把内容放在排版目录下，打开sla文件才能看到图片。
